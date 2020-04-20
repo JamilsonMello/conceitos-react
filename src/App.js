@@ -51,7 +51,6 @@ function App() {
         </li>
         ))}      
       </ul>
-
       <button onClick={handleAddRepository}>Adicionar</button>
     </div>
   );
